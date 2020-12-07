@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "expo-threejs-skeleton",
+    "description": "This is a working react native expo threejs skeleton.",
+    "slug": "expo-threejs-skeleton",
+    "privacy": "public",
+    "sdkVersion": "39.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/icons/app-icon.png",
+    "loading": {
+      "icon": "./assets/icons/loading-icon.png"
+    },
+    "packagerOpts": {
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
